@@ -1,0 +1,6 @@
+export default {
+    imgUrl:"http://debtspa.dev.weipeiapp.com/web/images/",
+    hostUrl:"http://debtspa.dev.weipeiapp.com/dist/",
+    devUrl:"http://wl.dev.weipeiapp.com/",
+    token:"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vd2wuZGV2LndlaXBlaWFwcC5jb20vYXBpL3Rva2VucyIsImlhdCI6MTUxMzkzNzY5NiwiZXhwIjoxNTEzOTQxMjk2LCJuYmYiOjE1MTM5Mzc2OTYsImp0aSI6IjVlNWY1NGVhNmI0Zjc3OGIyYjE4MThlZDAyYWU0YWZmIiwic3ViIjo1LCJ1c2VyX2lkIjo1fQ.kd7Tj3q1RrXrHBiWqvm8xoyZjxQTXp6mHvfqwJaGz9Q"
+}
